@@ -19,7 +19,7 @@ package main
 import "fmt" // Allows us to output text
 
 func main() { //Starting code, must have a function to run
-	fmt.Println("Hello World!")
+	fmt.Println("Hello World WOO!")
 }
 
 //-------------------------------------------------------------------------
